@@ -1,7 +1,7 @@
 # Project
 
 ## Project Creator
-Chelsea Valentyn
+Chelsea Candice Valentyn
 
 ## Project Date
 14 October 2022
